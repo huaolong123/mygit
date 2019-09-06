@@ -1,3 +1,2 @@
 # mygit
-# hello
-# world
+# hello world
